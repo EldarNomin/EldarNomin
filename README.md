@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **eldarNomin@gmail.com**
 
-- ⚡ Fun fact: **I've read so many fantasy books that I don't immediately understand that I'm rereading.**
+- ⚡ Fun fact: **I've read so many fantasy books that I don't immediately realize that I'm rereading.**
 
 <p align="left">
 </p>

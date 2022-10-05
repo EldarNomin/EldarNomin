@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I've read so many fantasy books that I don't immediately understand that I'm rereading.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

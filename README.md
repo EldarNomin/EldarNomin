@@ -22,7 +22,7 @@
 
 <p align="center" dir="auto"> 
   Visitor count<br>
-  <a href="https://ra1nbow.xyz?ref=github" rel="nofollow">
+  <a href="https://github.com/EldarNomin/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/1afc0d468d48caa6246ddd9e984fd3dc168006538c2de9f2b88a50b5571bf40b/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7261316e626f77312f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/eldarnomin/count.svg" style="max-width: 100%;">
   </a>
 </p>

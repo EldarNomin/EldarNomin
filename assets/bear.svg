@@ -52,8 +52,8 @@
        cy="225"
        cx="750" />
      <g>
-    <rect x="0" y="0" width="100" height="100" fill="brown"></rect>
-    <text x="0" y="50" font-family="Verdana" font-size="35" fill="blue">A pasionate junior java automation engineer</text>
+    <rect x="0" y="0" width="20" height="10" fill=" "></rect>
+    <text x="0" y="50" font-family="Verdana" font-size="35" fill="white">A pasionate junior java automation engineer</text>
   </g>
     <g
        id="g32"

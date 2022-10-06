@@ -53,7 +53,7 @@
        cx="750" />
      <g>
     <rect x="0" y="0" width="50" height="100" fill=" "></rect>
-    <text x="400" y="500" font-family="Verdana" font-size="35" fill="white">A pasionate junior java automation engineer</text>
+    <text x="500" y="450" font-family="Verdana" font-size="35" fill="white">A pasionate junior java automation engineer</text>
   </g>
     <g
        id="g32"

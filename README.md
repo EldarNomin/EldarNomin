@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Eldar <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" style="max-width: 100%;"></a> </h1>
-<img src="https://raw.githubusercontent.com/eldarnomin/eldarnomin/master/assets/bear.svg" alt="Social banner for eldarnomin" style="max-width: 80%;">
+<img src="https://raw.githubusercontent.com/eldarnomin/eldarnomin/master/assets/bear.svg" alt="Social banner for eldarnomin" style="max-width: 40%;">
 <p dir="auto"><a href="https://github.com/EldarNomin" rel="nofollow">
 <a href="https://t.me/eldarnomin" rel="nofollow"><img src="https://camo.githubusercontent.com/83cabfb75a75d7f14bcdfd42fe97285a5094293858480b949346910157e149b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d4646463f266c6f676f3d54656c656772616d" alt="" data-canonical-src="https://img.shields.io/badge/-Telegram-FFF?&amp;logo=Telegram" style="max-width: 100%;"></a>
 </p>

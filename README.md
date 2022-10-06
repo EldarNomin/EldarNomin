@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Eldar <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" style="max-width: 100%;"></a> </h1>
 
-<p dir="auto"><a href="https://jhey.dev" rel="nofollow"><img src="https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg" alt="Social banner for jh3y" style="max-width: 100%;"></a></p>
+<p><img align="center" src="https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400&amp;hide=html&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;text_color=000&bg_color=0,EAECEE,D5D8DC,ABB2B9,808B96&theme=graywhite" style="max-width: 100%;" alt="eldarnomin" /></p>
 <h3 align="center">A passionate junior java automation engineer</h3>
 
 <p dir="auto"><a href="https://github.com/EldarNomin" rel="nofollow">

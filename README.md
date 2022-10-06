@@ -23,5 +23,5 @@
 
 <a href="https://github.com/EldarNomin" rel="nofollow">
   <img height="137px" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldarnomin&amp;hide=html&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;text_color=C8C2C2&amp;icon_color=fff&amp;bg_color=0,050000,390101,730202&amp;theme=graywhite" style="max-width: 100%;">
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldarnomin&amp;hide=html&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;text_color=C8C2C2&amp;icon_color=055806&amp;bg_color=0,050000,390101,730202&amp;theme=graywhite" style="max-width: 100%;">
 </a>

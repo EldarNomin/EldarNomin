@@ -52,9 +52,9 @@
        cy="225"
        cx="750" />
      <g>
-    <rect x="0" y="0" width="50" height="100" fill=" "></rect>
-    <text x="570" y="475" font-family="Verdana" font-size="42" fill="white">A pasionate java automation engineer</text>
-  </g>
+       <rect x="0" y="0" width="50" height="100" fill=" "></rect>
+       <text x="590" y="475" font-family="Verdana" font-size="42" fill="white">A pasionate java automation engineer</text>
+    </g>
     <g
        id="g32"
        clip-path="url(#clip1)">

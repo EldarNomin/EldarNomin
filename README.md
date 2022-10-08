@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi there, I'm Eldar <img src="https://camo.githubusercontent.com/90cb7943ff2732c20f4cdeec1338e3c793aca37896cadcf3fcd8275964e1d2d7/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" data-canonical-src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" style="max-width: 70%; display: inline-block;" data-target="animated-image.originalImage"> </h1>
+href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" style="max-width: 100%;"></a> </h1>
    
 <img src="https://raw.githubusercontent.com/eldarnomin/eldarnomin/master/assets/bear.svg" alt="Social banner for eldarnomin" style="max-width: 100%;">
   

@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **java and selenium**
 
-- 💬 Ask me about **java, selenium, git, jenkins, docker, virtualization, web, DBMS, linux, network, windows**
+- 💬 Ask me about **java, testng, selenium, git, jenkins, docker, virtualization, web, DBMS, linux, network, windows**
 
 - 📫 How to reach me **eldarNomin@gmail.com**
 

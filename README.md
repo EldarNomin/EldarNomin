@@ -6,6 +6,7 @@
 <img src="https://camo.githubusercontent.com/83cabfb75a75d7f14bcdfd42fe97285a5094293858480b949346910157e149b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d4646463f266c6f676f3d54656c656772616d" alt="" data-canonical-src="https://img.shields.io/badge/-Telegram-FFF?&amp;logo=Telegram" style="max-width: 400%;"></a>
 </p>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldarnomin&label=Profile%20views&color=0e75b6&style=flat" alt="eldarnomin" /> </p>
 
 - 🌱 I’m currently learning **java and selenium**

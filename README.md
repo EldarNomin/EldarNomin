@@ -7,9 +7,9 @@
 </p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldarnomin&label=Profile%20views&color=0e75b6&style=flat" alt="eldarnomin" /> </p>
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **java, C#, testng, selenium, git, jenkins, docker, virtualization, web, DBMS, linux, network**
+- 💬 Ask me about **Java, C#, testng, selenium, git, jenkins, docker, virtualization, web, DBMS, linux, network**
 
 - 📫 How to reach me **eldarNomin@gmail.com**
 
